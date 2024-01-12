@@ -12,13 +12,19 @@ The data for this project is sourced from Excel.
 ## Implementation Steps
 
  The project includes the following features:
-#### 1) Data Extraction: 
+#### 1) Data Extraction:
 Extracts data from the database using SQL queries.
 
 #### 2) Data Cleaning: 
 Cleans the data by removing duplicates, handling missing values, and transforming data types.
 
-#### 3) Data Analysis: 
+#### 3) Data Loading:
+Load data into SQL server
+
+#### 4) SQL Queries:
+Formulate SQL queries to extract, transform, and analyze relevant data.
+
+#### 5) Data Analysis: 
 Analyzes the data using SQL queries to identify patterns and relationships between variables.
 
 
